@@ -1,7 +1,7 @@
 {
   "name": "devtools-docs",
   "devDependencies": {
-    "proofreader": ">0.2.0"
+    "proofreader": ">0.3.2"
   },
   "scripts": {
     "test": "proofreader --file-list modified_files"
