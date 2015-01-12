@@ -7,6 +7,8 @@ presents a small selection of extensions. All of the extensions listed here are
 available for install from the Chrome Web Store. And they're all open source, so 
 you can use them as inspiration for your own extensions.
 
+Test sentence.
+
 ## AngularJS Batarang
 
 AngularJS Batarang is a swiss-army knife for the AngularJS framework, 
