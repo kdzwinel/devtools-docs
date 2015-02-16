@@ -1,7 +1,7 @@
 {
   "name": "devtools-docs",
   "devDependencies": {
-    "proofreader": ">=0.5.5"
+    "proofreader": "kdzwinel/proofreader"
   },
   "scripts": {
     "test": "proofreader -c proofreader-settings.json --file-list modified_files"
